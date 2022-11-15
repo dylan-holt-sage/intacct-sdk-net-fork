@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>Intacct.SDK</PackageId>
-    <PackageVersion>3.2.0</PackageVersion>
+    <PackageId>squigglebop</PackageId>
+    <PackageVersion>0.1.0</PackageVersion>
     <Authors>intacct</Authors>
     <AssemblyTitle>Sage Intacct SDK</AssemblyTitle>
     <Description>Sage Intacct SDK for .NET</Description>
